@@ -1,0 +1,39 @@
+td,th{
+	border: 1px solid purple;
+}
+table{
+	border-collapse: collapse;
+}
+th{
+	font-size: 28px;
+}
+body{
+	background-image:url("acceuil.jpg");
+	background-attachment: scroll;
+	color:navy;
+}
+.p1{
+	background-color: aqua;
+	font-family: Georgia;
+	border-collapse: collapse;
+	color: purple;
+}
+.p2{
+	background-color: teal;
+	border-collapse: collapse;
+}
+.titre{
+	text-shadow: 1px 2px 3px fuchsia;
+}
+.description{
+	background-color: silver;
+	border: 1px solid purple;
+	color: purple;
+}
+.couleur_na{
+	color: fuchsia;
+}
+.pp{
+	width: 150px;
+	height:150px;
+}

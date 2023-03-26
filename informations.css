@@ -1,0 +1,25 @@
+.h1{
+	font-family: Tahoma;
+	font-style: italic;
+}
+body{
+	background-image:url("informations.jpg");
+	background-attachment: scroll;
+	color:navy;
+	color: black;
+}
+.titre{
+	text-shadow: 1px 2px 3px fuchsia;
+	background-color: purple;
+	border-collapse: collapse;
+}
+.sous_titre{
+	text-shadow: 1px 2px 3px fuchsia;
+	background-color: olive;
+	border-collapse: collapse;
+}
+.biographie
+{
+	background-color: gray;
+	font-weight: bold;
+}

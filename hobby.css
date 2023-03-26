@@ -1,0 +1,40 @@
+.p1
+{
+	font-weight: bold;
+	font-size: 40px;
+	text-shadow: 1px 2px 3px purple;
+}
+.p2{
+	font-weight: bold;
+	border-width: 30px;
+	border-style: solid;
+	border-color: purple;
+	margin: 10px;
+	box-shadow: 4px 4px 3px blue inset
+	background-color: gray;
+	color: blue;
+}
+.p3{
+	border-color: blue;
+}
+.titre{
+	text-shadow: 1px 2px 3px fuchsia;
+	background-color: purple;
+	border-collapse: collapse;
+}
+.sous_titre{
+	text-shadow: 1px 2px 3px fuchsia;
+	background-color: navy;
+	border-collapse: collapse;
+}
+.liste{
+	text-shadow: 1px 2px 3px fuchsia;
+	background-color: gray;
+	border-collapse: collapse;
+}
+body{
+	background-image:url("hobby.jpg");
+	background-attachment: scroll;
+	color:navy;
+	color: white;
+}

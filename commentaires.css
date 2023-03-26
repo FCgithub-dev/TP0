@@ -1,0 +1,19 @@
+textarea{
+	width: 300px;
+	height: 200px;
+}
+body{
+	background-image:url("commentaires.png");
+	background-attachment: scroll;
+	color:navy;
+}
+.titre{
+	text-shadow: 1px 2px 3px fuchsia;
+	background-color: olive;
+	border-collapse: collapse;
+}
+.envoyer_annuler{
+	font-weight: bold;
+	background-color: teal;
+	border-collapse: collapse;
+}

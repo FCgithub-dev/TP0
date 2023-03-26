@@ -1,0 +1,28 @@
+.img{
+	width: 150px;
+	border: 2px solid black;
+}
+.li{
+	font-weight: bold;
+}
+body{
+	background-image:url("contact.jpg");
+	background-attachment: scroll;
+	color:navy;
+	color: white;
+}
+.titre{
+	text-shadow: 1px 2px 3px fuchsia;
+	background-color: olive;
+	border-collapse: collapse;
+}
+.sous_titre{
+	text-shadow: 1px 2px 3px fuchsia;
+	background-color: maroon;
+	border-collapse: collapse;
+}
+.para2{
+	text-shadow: 1px 2px 3px fuchsia;
+	background-color: gray;
+	border-collapse: collapse;
+}

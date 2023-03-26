@@ -1,0 +1,19 @@
+.p1{
+	border-color: bold;
+}
+body{
+	background-image:url("photos.jpg");
+	background-attachment: scroll;
+	color:navy;
+	color: black;
+}
+.titre{
+	text-shadow: 1px 2px 3px fuchsia;
+	background-color: blue;
+	border-collapse: collapse;
+}
+.biographie
+{
+	background-color: olive;
+	font-weight: bold;
+}
